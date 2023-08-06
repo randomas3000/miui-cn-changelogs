@@ -1,0 +1,13 @@
+source changelog:   
+
+[System]
+Mi AI opens with new landing page, with much easier access to your favorite features and many more tricks up it's sleeve.
+
+  changes for vayu:
+  - fixed nfc
+  - added miui camera leica mod
+  - brought back getapps (for updating system apps and installing play store)
+  - tried to fix safetynet (no success for now so don't spam about this)
+
+                            about play store: 
+                            i tried implementing it in rom, but it not showing in apps list so you can install it via getapps. 
